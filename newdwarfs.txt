@@ -1,0 +1,10 @@
+GalaxyName			ra1 ra2 ra3 dec1 dec2 dec3 ra dec EB-V  (m-M)o e5  e6   vh(km/s) Notes
+CetusIII          02 05 19.4  -4 16 12  	31.3292 	-4.2700 	nan    22.0  0.2  0.1   nan "http://adsabs.harvard.edu/abs/2018PASJ...70S..18H"
+DESJ0225+0304      02 25 42.4   3 04 10  	36.4250 	3.0694 		nan    16.88 0.06 0.05  nan  "http://adsabs.harvard.edu/abs/2017MNRAS.468...97L"
+PictorII          06 44 43.2 -59 53 49 		101.1792 	-59.8969 	0.107 18.3  0.12 0.15  nan "http://adsabs.harvard.edu/abs/2016ApJ...833L...5D"
+VirgoI            12 00 09.6 -00 40 48   	180.0417 	-0.6800    	nan	19.7  0.3  0.2   nan  "http://adsabs.harvard.edu/abs/2016ApJ...832...21H"
+HydrusI           02 29 33.3 -79 18 32  	-0.6800 	-79.3089 	nan    17.20 0.04 0.04   80.4 "http://adsabs.harvard.edu/abs/2018MNRAS.479.5343K"
+CarinaII          nan nan nan nan nan nan 	114.1066  	-57.9991   	nan    17.79 0.05 0.05  477.2 "http://adsabs.harvard.edu/abs/2018MNRAS.475.5085T"
+CarinaIII         nan nan nan nan nan nan 	114.6298 	-57.8997   	nan    17.22 0.10 0.10  284.6 "http://adsabs.harvard.edu/abs/2018MNRAS.475.5085T"
+CraterII          nan nan nan nan nan nan 	177.310  	-18.413    	nan    20.35 0.02 0.02   87.5 "http://adsabs.harvard.edu/abs/2016MNRAS.459.2370T"
+AquariusII        nan nan nan nan nan nan 	338.4813 	-9.3274    	nan    20.16 0.07 0.07  -71.1 "http://adsabs.harvard.edu/abs/2016MNRAS.463..712T"

@@ -1,0 +1,121 @@
+documentclass{article}
+
+\begin{document}
+
+\begin{table}[h!]
+  \begin{center}
+    \caption{Your first table.}
+    \label{tab:table1}
+    \begin{tabular}
+ 
+
+GalaxyName & M_star & sigma_star_kms & sigma_star_kms_err & v_r_star & v_r_star_err & M_HI & sigma_HI & sigma_HI_err & v_r_HI & v_r_HI_err & M_dyn_r_h & References & Comments\\
+
+      \hline
+           
+CanisMajor       &       49 & 20.0 &  3.0 &  --- & ---  &    --- & --- & --- & --- & --- &  --- & (1) & HI measurements complex due to location!\\
+SagittariusdSph  &       21 & 11.4 &  0.7 &  N/A & N/A  &    N/A\tablenotemark{b}  & N/A & N/A & N/A & N/A &     190 & (2) (3) (4) (5) & none \\
+Segue(I)         &  0.00034 &  3.9\tablenotemark{c} &  0.8 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &    0.26 & (6) (5) & Stellar velocity gradient constrained to $<5$\,km\,s$^{-1}$ at 90\% confidence\\
+UrsaMajorII     &   0.0041 &  6.7 &  1.4 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &     3.9 & (7) (5) &Velocity difference of $8.4 \pm 1.4$km\,s$^{-1}$ between stars in the east and west\\
+BootesII         &   0.0010 & 10.5 &  7.4 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     3.3 & (8) (5) & none\\		
+SegueII          &  0.00086 &  3.4 & $^{+2.5}_{-1.2}$&  --- & ---  &    --- & --- & --- & --- & --- &    0.23 & (9) & none \\
+Willman1         &   0.0010 &  4.3 & $^{+2.3}_{-1.3}$ &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &    0.27 & (10) (5) & none\\
+ComaBerenices    &   0.0037 &  4.6 &  0.8 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &    0.94 & (7) (5) & Stellar velocity gradient of $5.5 \pm 1.2$km\,s$^{-1}$\,degree$^{-1}$\\
+BootesIII        &    0.017 & 14.0 &  3.2 &  --- & ---  &    --- & --- & --- & --- & --- &     --- & (11) & none\\
+LMC               &     1500 & 20.2 &  0.5 & 49.8 & 15.9 &    460 & 15.8& 0.2 & 63.0& 3.0 &         & (12) (13) (14) & Stellar velocities based on Carbon stars; HI boundaries between LMC, SMC, bridge and interface regions not clearly defined\\
+SMC               &      460 & 27.6 &  0.5 &  N/A & N/A  &    460 & 22.0\tablenotemark{d} & 2.0 & 60.0& 5.0 &        & (15) (16) (14) & Stellar velocities based on red giant branch stars; stellar velocity gradient of $8.3$km\,s$^{-1}$\,degree$^{-1}$; HI boundaries between LMC, SMC, bridge and interface regions not clearly defined\\
+Bootes(I)        &    0.029 &  2.4 & $^{+0.9}_{-0.5}$ &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &    0.81 & (17) (5) & Stellar velocity dispersion corresponds to dominant component, and there is evidence for a hotter component with $\sigma^* \sim 9$\,km\,s$^{-1}$\\
+Draco             &     0.29 &  9.1 &  1.2 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &      11 & (18) (19) (5) & none\\
+Ursa Minor        &     0.29 &  9.5 &  1.2 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &     9.5 & (20) (19) (5) & none\\
+Sculptor          &      2.3 &  9.2 &  1.4 &  N/A & N/A  &   {\it 0.22}\tablenotemark{e} & N/A & N/A & N/A & N/A &    14 & (21) (22) (23) (5) & Stellar velocity gradient of $5.5 \pm 0.5$km\,s$^{-1}$\,degree$^{-1}$\\		
+Sextans(I)       &     0.44 &  7.9 &  1.3 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &      25 & (21) (22) (5) & none\\
+UrsaMajor(I)    &    0.014 &  7.6 &  1.0 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &      11 & (7) (5) & none\\
+Carina            &     0.38 &  6.6 &  1.2 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &     6.3 & (21) (22) (5) & Stellar velocity gradient of $2.5 \pm 0.8$km\,s$^{-1}$\,degree$^{-1}$\\
+Hercules          &    0.037 &  3.7 &  0.9 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     2.6 & (24) (5) & none\\
+Fornax            &       20 & 11.7 &  0.9 &  N/A & N/A  &   {\it 0.17}\tablenotemark{f} & N/A & N/A & N/A & N/A &      56 & (21) (22) (25) (5) & Stellar velocity gradient of $6.3 \pm 0.2$km\,s$^{-1}$\,degree$^{-1}$\\
+LeoIV            &    0.019 &  3.3 &  1.7 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     1.3 & (7) (5) & none\\
+CanesVenaticiII &   0.0079 &  4.6 &  1.0 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &    0.91 & (7) (5) & none\\
+LeoV             &    0.011 &  3.7 & $^{+2.3}_{-1.4}$ &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     1.1 & (26) (27) (5) & none\\
+PiscesII         &   0.0086 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &  & --- & none\\
+CanesVenatici(I)&     0.23 &  7.6 &  0.4 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &      19 & (7) (5) & none\\
+LeoII            &     0.74 &  6.6 &  0.7 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     4.6 & (18) (5) & none\\
+LeoI             &      5.5 &  9.2 &  1.4 &  N/A & N/A  &    N/A & N/A & N/A & N/A & N/A &      12 & (28) (5) & none\\
+M32               &      320 & 92.0 &  5.0 & 55.0 & 3.0 &    N/A & N/A & N/A & N/A & N/A &     540 & (29) (5) &Stellar velocity dispersion rises rapidly towards center, and presents strong evidence for a super-massive black hole (e.g., see also \cite{vandermarel1997})\\
+AndromedaIX      &     0.15 &  4.5 & 3.6 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     6.5 & (30) (5) & none\\
+NGC205           &      330 & 35.0 &  5.0 & 11.0 &  5.0 &   0.40 & 16.1\tablenotemark{g} &    & N/A & N/A &     420 & (31) (32) & HI velocity gradient of $\sim 42$\,km\,s$^{-1}$ measured over $\sim 3$ arcmin\\
+AndromedaXVII    &     0.26 &  --- &  --- &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     --- & (5) & none\\
+AndromedaI       &      3.9 & 10.6 &  1.1 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &      44 & (33) (5)& none\\
+AndromedaXXVII   &     0.12 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- & ---&    --- & none\\
+AndromedaIII     &     0.83 &  4.7 &  1.8 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     6.1 & (33) (34)\tablenotemark{h} (5)& none\\
+AndromedaXXV     &     0.68 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &   ---& --- & none\\
+AndromedaXXVI    &    0.060 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &   ---&  --- & none\\
+AndromedaXI      &    0.049 &  $\le4.6$ & &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     1.9 & (30) (5) & none\\
+AndromedaV       &     0.39 &  11.5 &  $^{+5.3}_{-4.4}$ &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     --- & (35) (34) (5) & Not associated with HI detection in \cite{blitz2000}\\
+AndromedaX       &    0.096 &  3.9 &  1.2 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     2.3 & (33) (5)  & none\\
+AndromedaXXIII   &      1.1 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &  ---&   --- &none\\
+AndromedaXX      &    0.029 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &  ---&   --- &none\\
+AndromedaXII     &    0.031 &  2.6 & $^{+5.1}_{-2.6}$ &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     1.2 & (30) (5)& none\\
+NGC147           &       62 & 16.0 &  1.0 & 17.0 &  2.0 &    N/A & N/A & N/A & N/A & N/A &      93 & (36) (5)& none\\
+AndromedaXXI     &     0.76 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &  ---&   --- & none\\
+AndromedaXIV     &     0.20 &  5.4 &  1.3 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     6.1 & (33) (5)& none\\ 
+AndromedaXV      &     0.49 & 11.0 &$^{+7.0}_{-5.0}$&  --- & ---  &    N/A & N/A & N/A & N/A & N/A &      16 & (37) (5) & none\\
+AndromedaXIII    &    0.041 &  9.7 & $^{+8.9}_{-4.5}$  &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &      11 & (30) (5) & Stellar velocity dispersion based on 3 stars  \\
+AndromedaII      &      7.6 &  7.3 &  0.8 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &      36 & (33) (5)&none\\
+NGC185           &       68 & 24.0 &  1.0 & 15.0 &  5.0 &   0.11 &15.3 & 0.8 & N/A\tablenotemark{i} & N/A &     150 & (36) (32)&none\\
+AndromedaXXIX    &     0.18 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &   ---&  --- &none\\
+AndromedaXIX     &     0.43 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &   ---&  --- & none\\
+Triangulum        &     2900 &     &      &      &      &        &     &     &     &     &      &   &none\\			
+AndromedaXXIV    &    0.093 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &   ---&  --- &none\\
+AndromedaVII     &      9.5 &  9.7 &  1.6 &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &  42 & (33) (5) & none\\
+AndromedaXXII    &    0.034 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &    --- &   --- & none\\
+IC10             &       86 &  --- &  --- &  --- & ---  &     50 & 8.0 & 1.0 & 34.0& 5.0&       --- & (38) (39) & Gaseous disk embedded in complex, extended HI distribution, (with a dispersion of around $30 - 40$km\,s$^{-1}$)\\
+LGS3             &     0.96 &  7.9 & $^{+5.3}_{-2.9}$ &  --- & ---  &   0.38 & 9.1 & 0.3 & $\le5.0$ &     &      17 & (40) (41) &  Stellar velocity dispersion based on 4 stars \\
+AndromedaVI      &      2.8 &  9.4 &  $^{+3.2}_{-2.4}$ &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &    --- & (35) (5) & none\\
+AndromedaXVI     &     0.41 & $\le10.0$ &     &  --- & ---  &    N/A & N/A & N/A & N/A & N/A &     7.9 & (37) (5)& none\\
+AndromedaXXVIII  &     0.21 &  --- &  --- &  --- & ---  &    --- & --- & --- & --- & --- &  ---&   --- & none\\
+IC1613           &      100 &  --- &  --- &  --- & ---  &     65 & 25.0& 3.0 & 5.9 & 1.0 &     --- & (42) (43) & none\\
+Phoenix           &     0.77 &  --- &  --- &  --- & ---  &   0.12 & 10.0& 4.0 & N/A & N/A &     --- & (44) & HI cloud offset from optical center of Phoenix, proposed as supernova-driven outflow; HI velocity gradient of $\sim 10$\,km\,s$^{-1}$ observed over $\sim 8$\,arcmins\\		
+NGC6822          &      100 &  --- &  --- &  --- & ---  &    130 & 5.8 & 1.9 & 47.0& 2.0 &     --- & (45) (46)& \cite{demers2006} obtain velocities for $>100$ AGB stars\\ 	
+Cetus             &      2.6 & 17.0\tablenotemark{j} &  2.0 &  7.7 &  1.2 &    N/A & N/A & N/A & N/A & N/A &     120 & (47) (5) & Tentative stellar velocity gradient across minor axis of $7.7 \pm 1.2$\,km\,s$^{-1}$;  unassociated with nearby HI cloud; \\								
+PegasusdIrr      &     6.6  &  --- &  --- &  --- & ---  &    5.9 & $<9.0$ &  & 21.0:&    &     --- & (48) (49)&none\\			
+LeoT             &     0.14 &  7.5 &  1.6 &  --- & ---  &   0.28 & 6.9 & 1.0 & N/A & N/A &     3.9 & (7) (50) &Cold HI component in the center?\\
+WLM               &       43 & 17.5 &  2.0 & 20.8 &  2.0 &     61 & 4.5 & 1.0 & 30.0& 3.0 &     380 & (51) (52) &none \\
+LeoA             &      6.0 &  9.3 &  1.3 &  N/A & N/A  &    11 & 9.3 & 1.4 & N/A & N/A &      25 &(53) (54) & Stellar kinematics derived using 10 young B supergiants + HII regions; HI gradient of $\sim1.3$\,km\,s$^{-1}$\,arcmin$^{-1}$, dispersion corresponds to "broad" component of two component\\
+AndromedaXVIII   &     0.63 &  --- &  --- &  --- & ---  &   --- &  --- & --- &  --- & --- & ---&    --- &none\\
+Aquarius          &      1.6 &  --- &  --- &  --- & ---  &    4.1 & 5.8 & 0.1 & N/A & N/A &     --- & (48) &HI velocity gradient of $6$\,km\,s$^{-1}$\,arcmin$^{-1}$ \\
+Tucana            &     0.56 & 15.8 & $^{+4.1}_{-3.1}$  & N/A & N/A &    N/A & N/A & N/A & N/A & N/A &      41 & (55) (5) & Stellar velocity gradient of $\sim16$km\,s$^{-1}$ over $\sim2 \times r_h$; unlikely associated with nearby HI cloud\\					
+SagittariusdIrr  &      3.5 &  --- &  --- &  --- & ---  &    8.8 & 10.0& 1.0 & N/A & N/A &     --- & (41) &HI dispersion corresponds to broader component (distributed everywhere)\\
+UGC4879          &      8.3 &  --- &  --- &  --- & ---  &   0.95 & 11.0 &  1.1 &   N/A & N/A  &     --- & (56)& none\\
+NGC3109          &       76 &  --- &  --- & --- & --- &    450 & 10.0: &    & 72.4 &  0.5 & --- & (57) (58) (59) & none\\
+SextansB         &       52 & ---  & ---  & --- & --- &     51 & $<18.0$ &      & 71: &     &      & (60) (49) &none\\
+Antlia            &      1.3 &  --- &  --- & --- & --- &   0.73 &  6.4 &  0.7 & N/A & N/A &  ---  & (58)& none\\
+SextansA         &       44 &  --- &  --- &  --- & --- &     77 &  8.0 &  1.0 & 20.0 &  2.0 &  --- & (61)&none\\
+HIZSS3(A)        &      --- &  --- &  --- &  --- & ---  & 14 & --- & --- & 42.0 &   4.0 &  ---&  --- & (62)\\
+HIZSS3B          &      --- &  --- &  --- &  --- & --- &   2.6 & --- &  --- & N/A & N/A &    --- &(62) & HI velocity gradient of $\sim2.5$km\,s$^{-1}$\,arcmin$^{-1}$\\
+KKR25            &      1.4 &  --- &  --- &  --- & ---  & --- & --- & --- & --- & --- &  --- & See \cite{huchtmeier2000} for attempted HI observations & none\\
+ESO410-G005    &      3.5 &  --- &  --- &  --- &  --- &  0.73 & 14.2 &  0.6 & --- & --- &    --- & (63)& none\\
+NGC55            &     2200 &  --- & --- & --- & --- & 1300 & --- & --- & 86.0 &  6.0 &  --- & (64) &\cite{castro2008} obtain stellar velocities for $\sim200$ massive blue stars, and find their kinematics closely trace the HI rotation curve\\
+ESO294-G010    &      2.7 &  --- &  --- &  --- &  --- &   0.34 &  9.7 &  0.9 &  --- & --- &  --- & (63)& none\\
+NGC300           &     2100 &  --- & --- & --- & --- & 1800 & 13.0 & 5.0 & 98.8 &  3.1 & --- & (65) (66) & HI velocity dispersion shows significant spatial variation\\
+IC5152           &      270 &  --- & --- & --- & --- &  87 & --- & --- & --- & --- & --- & (45) & HI line widths available in \cite{koribalski2004}\\
+KKH98            &      4.5 &  --- &  --- &  --- & --- &   6.6 &  --- &  --- &  --- & --- &  --- & (67) & HI line widths available in \cite{begum2008a}, \cite{huchtmeier2003}\\		
+UKS2323-326      &       17 &  --- &  --- &  --- & ---  &   17: & --- &  --- &  --- & ---  & --- & (68) & See also \cite{huchtmeier1986}; HI line widths available in \cite{longmore1982}, \cite{huchtmeier1986}\\
+KKR3             &     0.54 &  --- &  --- &  --- & ---  &   2.5 &  7.5 &  0.5 &   N/A & N/A  & --- & (69) &HI velocity gradient of $\sim3.3$km\,s$^{-1}$\,arcmin$^{-1}$\\
+GR8              &      6.4 &  --- &  --- &  --- & ---  &  11 &  7.0 &  0.2 &   N/A & N/A  & --- & (48) &Lumpy HI velocity distribution, with some evidence of an overall velocity gradient\\
+UGC9128          &      7.8 &  --- &  --- &  --- & --- &  18 & $<15.0$ &      & 56.0: &      &  --- & (49) & See also \cite{begum2008a}\\
+UGC8508          &       19 &  --- &  --- &  --- & --- &  29 & --- & --- & 31.2 &  2.3 &  --- & (67) (70) & none\\
+IC3104           &       62 &  --- &  --- &  --- & ---& 13 & --- &  --- &  --- & --- &  --- & (45) & HI line widths available in \cite{koribalski2004} \\
+DDO125           &       47 &  --- &  --- &  --- & --- &  35 & 7.3 & 1.5 & 11.2 &  2.7 & --- & (71) (72) &  HI rotational velocity measured at $r = 2$\,arcmins; see also \cite{huchtmeier2003}, \cite{begum2008a}, \cite{swaters2009}\\							
+UGCA86           &       16 &  --- &  --- &  --- & --- & 860 &  8.8 &  1.0 & 122.0 & 5.0 & --- & (73) &  HI structure consists of a rotating disk and a kinematically distinct, elongated, ``spur'' \\
+DDO99            &       16 &  --- &  --- &  --- & --- &  52 & --- &  --- &  --- & --- &  --- & (67) & HI line widths available in \cite{begum2008a} \\
+IC4662           &      190 &  --- &  --- &  --- & --- & 180 &  --- &  --- &  --- & --- &  --- & (45) & HI line widths available in \cite{koribalski2004} \\
+DDO190           &       51 &  --- &  --- &  --- & --- &  43 & 10.0 & 2.4 & 24.7 & 2.5 &  --- & (71) (72) &  HI rotational velocity measured at $r = 1.5$\,arcmins\\
+KKH86            &     0.82 &  --- &  --- &  --- & --- & 0.88 & --- &  --- &  --- & --- & --- & (74) & HI line widths available in \cite{karachentsev2001b}\\
+NGC4163          &       37 &  --- &  --- &  --- & --- &  7.9 &  $<7.4$ &      & 8.7: &      & --- & (75) & none\\
+DDO113           &      2.1 &  --- &  --- &  --- & --- &  48\tablenotemark{k} & --- &  --- &  --- & ---  & --- & (76) & HI line widths available in \cite{huchtmeier1986} \\ 
+
+    \end{tabular}
+  \end{center}
+\end{table}
+
+\end{document}

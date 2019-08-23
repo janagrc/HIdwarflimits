@@ -1,0 +1,27 @@
+GalaxyName  med_std  v_-5  v_-4  v_-3  v_-2  v_-1  v_0  v_+1  v_+2  v_+3  v_+4  v_+5
+UrsaMajorII  0.33041  0.29192  0.2907   0.29266  0.39312  0.52351  0.51525  0.36989  0.29312  0.32788  0.34514  0.33041
+Tucana2      0.11744  0.13279  0.1321   0.09946  0.07456  0.08875  0.11781  0.13724  0.12786  0.10454  0.10228  0.11744
+Draco        0.21153  0.12404  0.10974  0.1389   0.15178  0.21153  0.28788  0.29272  0.25904  0.24986  0.213    0.14644
+Sextans(I)     0.57736  0.42631  0.48201  0.57736  0.65398  0.65606  0.67766  0.70233  0.59833  0.49953  0.5653   0.52435
+UrsaMajor(I)   1.12877  0.75418  0.87294  0.96666  1.03453  1.08105  1.12877  1.20459  1.30527  1.38664  1.41153  1.4108
+
+
+#HI4PI Resolved, Undetected Galaxies
+
+#For each galaxy, took 8 ellipses surrounding the optical size of the galaxy, equal to this optical size, and found the sum of each ellipse at a certain velocity channel, then took the standard deviation of #these 9 values at the same velocity channel. Went through +/- 5 velocity channels off the central velocity channel. Recorded each of these 11 standard deviations and found the median value. 
+
+#med_std: median of stdevs of 9 ellipses through 11 velocity channels (10 + central channel) 
+#v_-5……v_+5: stdev of flux of 9 ellipses at tar_v -5, tar_v -4, tar_v - 3…..tar_v +4, tar_v +5, where tar_v is the targe central velocity channel 
+#v_0: stdev of 9 ellipses at central velocity channel 
+
+#Sizes of galaxies: 
+
+#GalaxyName	rh	
+
+#UrsaMajorII       16     
+#Tucana2           9.83   
+#Draco             10     
+#SextansI          27.8   
+#UrsaMajor(I)      11.3   
+
+

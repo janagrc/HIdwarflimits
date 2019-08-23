@@ -1,0 +1,29 @@
+GalaxyName        rh     MHI      std30_med_g std30_med_h	MHI_g	MHI_h
+
+BootesIII         99.99  99.9    0.0379234 	nan	   	17.09138	nan	
+CanesVenaticiII   1.6    0       0.0782169	0.013089   	519.00588	474.21009
+PiscesII          1.1    99.9    0.0374291	nan	   	321.42495 	nan
+Pegasus3          1.3    99.9    nan		nan		nan		nan
+AndromedaXI       0.71   0       0.0693772	0.0121324      	9707.05599	9268.51441 
+AndromedaXX       0.53   99.9    0.0759196	0.0172298      	10819.92472	13407.35803
+AndromedaXIII     0.78   0       0.076044	0.0187598       13897.46464	18719.38047
+AndromedaXIV      1.7    0       0.029042697	0.0163208     	4752.33774	14581.57512
+AndromedaXII      1.2    0       0.0708268	0.0163362      	15851.40892	19962.45423
+AndromedaXXIX     1.7    99.9    0.036158554    nan             5012.81372	nan
+AndromedaXXII     0.94   99.9    0.035757869	0.020519467   	7856.74475	24616.69434
+AndromedaXVI      0.89   0       0.0689568	0.0244432      	4059.26808	7856.35933
+AndromedaXXVIII   1.11   99.9    0.031426143    nan             3557.63267	nan
+
+
+LeoV              2.6    0       0.079254866	0.020724623	649.97527	28.00471
+LeoII             2.6    0       0.085035235	0.01158971	1200.79881	893.58639
+AndromedaIII      2.2    0       0.086061373	0.0164502    	12493.33254	13038.68684
+AndromedaVI       2.3    0       0.030336279    nan             4828.73438	nan
+
+
+
+#moving rh < 2.6 arcmin into here as well 
+#some galaxies I have hi4pi and galfa data for, including both (g, h), if one value it’s galfa
+#AndromedaXIV used car_g01 for hi4pi
+
+#MHI: janskys calulated using conversion equation for unresolved galaxies:  MHI = (2.36*1e5)*(dmpc**2)*(stot*(g or h)) where stot #was taken to be the median stdev found, multiplied by 10. g/h is the conversion factor from kelvin to janskys for either galfa #or hi4pi cubes (g = 1/9.1, h = .6). dmpc is distance in megaparsec. Did this for both galfa and hi4pi if I had data for both 

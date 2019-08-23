@@ -1,0 +1,2 @@
+GalaxyName med
+Pegasus3  0.05

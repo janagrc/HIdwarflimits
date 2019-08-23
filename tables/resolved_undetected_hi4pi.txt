@@ -1,0 +1,6 @@
+GalaxyName     RA           DEC        PA     e=1-b/a  rh(arcmins)  vh(m/s)     HI4PI     npix
+UrsaMajorII    8h51m30.0s   63d7m48s   98.0   0.63     16.0         -116500     CAR_H07   25
+Tucana2        22h51m55.1s  -58d34m8s  107.0  0.39     9.83         -129000     CAR_B18   13
+Draco          17h20m12.4s  57d54m55s  89.0   0.31     10.0         -291000     CAR_H13   17 
+Sextans(I)     10h13m3.0s   -1d36m53s  56.0   0.35     27.8         224200      CAR_E08   77
+UrsaMajor(I)   10h34m52.8s  51d55m12s  71.0   0.8      11.3         -55300      CAR_H08   11
