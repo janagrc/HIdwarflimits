@@ -1,5 +1,5 @@
 GalaxyName                 med_std_30arcmin(K)  med_std_1deg(K)  Note
 TriangulumII               0.0188           0.0203  TriangulumII_HasVelTable_hi4pi.npy
-        LeoI               0.0224           0.0246  LeoI_HasVelTable_hi4pi.npy
+LeoI             	  0.0224           0.0246  LeoI_HasVelTable_hi4pi.npy
 AndromedaXIX               0.0360           0.0762  AndromedaXIX_HasVelTable_hi4pi.npy # there is a feature 
 AndromedaXVI               0.0244           0.0284  AndromedaXVI_HasVelTable_hi4pi.npy
