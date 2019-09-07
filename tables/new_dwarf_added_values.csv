@@ -1,0 +1,10 @@
+GalaxyName,RA_hr,RA_min,RA_sec,Dec_deg,Dec_arcmin,Dec_arcsec,EB-V,m-M,m-M_err,vh(km/s),Vmag,Vmag_err,PA,e=1-b/a,muVo,rh('),rh_err_pos,rh_err_neg,vsig_s,vsig_err,vrot_s,vrot_s_err,MHI_mcconnachie,Data,Key,vsig_g,vsig_g_err,vrot_g,Notes,dist_kpc,MHI_computed,MHI_source,MHI_type,1sigma,notes/image/limit
+CetusIII,2,5,19.4,-4,16,12,,22,0.2,,19.55,0.6,101,0.76,,1.23,0.42,0.19,,,,,,,,,,,http://adsabs.harvard.edu/abs/2018PASJ...70S..18H,,,,,,
+DESJ0225+0304,2,25,42.4,3,4,10,,16.88,0.06,,15.78,0.5,31,0.61,,2.68,1.33,0.7,,,,,,,,,,,http://adsabs.harvard.edu/abs/2017MNRAS.468...97L,,,,,,
+PictorII,6,44,43.2,-59,53,49,0.107,18.3,0.12,,15.1,0.5,14,0.13,,3.6,1.5,0.9,,,,,,,,,,,http://adsabs.harvard.edu/abs/2016ApJ...833L...5D,,,,,,
+VirgoI,12,0,9.6,0,40,48,19.7,19.7,0.3,,18.9,0.9,51,0.44,,1.5,0.4,0.4,,,,,,,,,,,http://adsabs.harvard.edu/abs/2016ApJ...832...21H,,,,,,
+HydrusI,2,29,33.3,-79,18,32,,17.2,0.04,80.4,12.49,0.08,97,0.21,,7.42,0.62,0.54,2.7,0.5,,,,,,,,,http://adsabs.harvard.edu/abs/2018MNRAS.479.5343K,,,,,,
+CarinaII,7,36,25.5,-57,59,57,,17.79,0.05,477.2,13.29,0.1,170,0.34,,8.69,0.75,0.75,3.4,1.2,,,,,,,,,http://adsabs.harvard.edu/abs/2018MNRAS.475.5085T,,,,,,"ok, peak in Yong's other plot?"
+CarinaIII,7,38,31.1,-57,53,59,,17.22,0.1,284.6,14.82,0.2,150,0.55,,3.75,1,1,5.6,4.3,,,,,,,,,http://adsabs.harvard.edu/abs/2018MNRAS.475.5085T,,,,,,ok
+CraterII,11,49,14.4,-18,24,47,,20.35,0.02,87.5,12.15,0.1,,<0.1,,31.2,2.5,2.5,2.7,0.3,,,,,,,,,http://adsabs.harvard.edu/abs/2016MNRAS.459.2370T,,,,,,ok
+AquariusII,22,33,55.5,-9,19,39,,20.16,0.07,-71.1,15.8,0.14,121,0.39,,5.1,0.8,0.8,5.4,3.4,,,,,,,,,http://adsabs.harvard.edu/abs/2016MNRAS.463..712T,,,,,,"ok, near edge "

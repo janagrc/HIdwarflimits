@@ -12,6 +12,7 @@ LeoI              0.031631  0.029137  0.030867  0.033413  0.036775  0.037608  0.
 AndromedaXIX      0.038535  0.039503  0.039608  0.039136  0.038333  0.038535  0.039022  0.037862  0.035554  0.034288  0.03559   0.039367  26928.9
 AndromedaII       0.020109  0.029312  0.026191  0.022482  0.01827   0.015435  0.016636  0.020109  0.022511  0.022071  0.019459  0.017692   8866.38
 
+
 GALFA-HI Resolved, Undetected Galaxies (these were smoothed to 8 arcmin beam size so technically unresolved now)
 
 For each galaxy, first smoothed the GALFA data at the central velocity channel and +/- 5 channels from there. Took a 30 arcmin region and found the standard deviation of the pixel values within this region in each velocity channel (giving 11 standard deviations). Found the median of these 11 values (med_std). Calculated the HI mass limit using MHI = (2.36*1e5)*(dmpc**2)*(stot*g_s) where stot was taken to be the median stdev found, multiplied by 10. g_s is the conversion factor from kelvin to janskys for the new smoothed galfa cubes (.44). dmpc is distance in megaparsec. 

@@ -1,14 +1,12 @@
-GalaxyName  med_std_30arcmin(K)  med_std_1deg(K)  Note
-CetusIII               0.0189              nan  CetusIII_NoVelTable_hi4pi.npy
-DESJ0225+0304            0.0967              nan  DESJ0225+0304_NoVelTable_galfa.npy
-PictorII               0.0193              nan  PictorII_NoVelTable_hi4pi.npy
-VirgoI                  0.0825              nan  VirgoI_NoVelTable_galfa.npy
-HydrusI                  nan                 nan  need_CAR_02
-CarinaII               0.0238           0.0244  CarinaII_HasVelTable_hi4pi.npy
-CarinaIII               0.0185           0.0202  CarinaIII_HasVelTable_hi4pi.npy
-CraterII               0.0200           0.0206  CraterII_HasVelTable_hi4pi.npy
-AquariusII               0.0212           0.0218  AquariusII_HasVelTable_hi4pi.npy
-HydrusI  		 0.0231		  nan	  HI4PI
-CraterII 		 0.0308   	  nan	  HI4PI
-WillmanI  		 1.8   		  nan	  HI4PI
-Phoenix   		 0.64  		  nan	  HI4PI
+GalaxyName	 med_std_30arcmin(K)
+CetusIII 			0.0189
+DESJ0225+0304 		0.0967
+PictorII 			0.0193
+VirgoI		 	0.0825
+CarinaII 			0.0238
+CarinaIII 		0.0185
+AquariusII 		0.0212
+HydrusI 			0.0231
+AndromedaXXV 		0.0619
+Willman1 			0.36
+Phoenix 			0.128
