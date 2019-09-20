@@ -4,7 +4,7 @@ TucanaIII         6      99.9   0.0203817
 DracoII           2.7    99.9   0.0173294
 Reticulum2        3.64   99.9   0.0205588
 CetusII           1.9    99.9   nan			"no v"
-Willman1          2.3    0      0.0193755
+#Willman1          2.3    0      0.0193755
 TucanaIV          9.1    99.9   nan			"no v"
 GrusII            6      99.9   nan			"no v"
 TucanaV           1      99.9   nan			"no v"
@@ -58,7 +58,6 @@ Hercules          8.6    0      0.0124405		"added later"
 CanesVenatici(I)  8.9    0	0.0153018		"added later"
 AndromedaXIX      6.2    99.9	0.0360227		"added later"
 AndromedaII       6.2    0	0.0216491		"added later"
-
 
 #2nd group added because considered too small for resolved(sculptor, fornax ambiguous), last group added from GALFA-HI resolved category 
 
