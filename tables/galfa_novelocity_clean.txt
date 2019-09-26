@@ -1,2 +1,3 @@
 GalaxyName med
-Pegasus3  0.05
+#Pegasus3  0.05
+#Actually has velocity, moved Pegasus3 to galfa unresolved
