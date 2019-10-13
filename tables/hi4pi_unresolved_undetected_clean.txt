@@ -39,7 +39,7 @@ AndromedaXXIV     2.1    99.9   0.0155428
 AndromedaVII      3.5    0      0.0159429
 AndXXXI           4.2    99.9   nan			"no v		-372?"
 AndXXXIII         1.7    99.9   nan			"no v"
-Eridanus2         1.53   99.9   nan			"no v"
+Eridanus2         1.53   99.9   0.019			"now has v"
 Cetus             3.2    0      0.0235621
 AndromedaXVIII    0.92   99.9   0.021439
 Tucana            1.1    0      0.0153251
@@ -58,6 +58,8 @@ Hercules          8.6    0      0.0124405		"added later"
 CanesVenatici(I)  8.9    0	0.0153018		"added later"
 AndromedaXIX      6.2    99.9	0.0360227		"added later"
 AndromedaII       6.2    0	0.0216491		"added later"
+
+SagittariusdSph   nan	nan	0.025
 
 #2nd group added because considered too small for resolved(sculptor, fornax ambiguous), last group added from GALFA-HI resolved category 
 

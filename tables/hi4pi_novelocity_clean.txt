@@ -15,4 +15,3 @@ IndusI?			0.019
 AndromedaXXXII		0.014
 AndromedaXXXI     	0.02
 AndromedaXXXIII    	0.015
-Eridanus2    		0.02
