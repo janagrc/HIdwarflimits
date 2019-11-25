@@ -1,0 +1,144 @@
+\begin{table}
+\begin{tabular}{cccccccc}\\
+GalaxyName & Other names & Association & Morphology & RA_Mcconnachie & Dec_Mcconnachie & Original Publication & Comments_Mcconnachie\\
+The Galaxy            & The Milky Way            & G &S(B)bc& 17h45m40.0s & -29d00m28s & --- & Position refers to Sgr A$ ^*$ \\
+Canis Major           &                          & G & ???? & 07h12m35.0s & -27d40m00s &\cite{martin2004a} & MW disk substructure?\\
+Sagittarius dSph      &                          & G & dSph & 18h55m19.5s & -30d32m43s &\cite{ibata1994} & Tidally disrupting\\
+Segue (I)             &                          & G & dSph & 10h07m04.0s & +16d04m55s &\cite{belokurov2007}\\
+Ursa Major II         &                          & G & dSph & 08h51m30.0s & +63d07m48s &\cite{zucker2006a}\\
+Bootes II             &                          & G & dSph & 13h58m00.0s & +12d51m00s &\cite{walsh2007}\\
+Segue II              &                          & G & dSph & 02h19m16.0s & +20d10m31s &\cite{belokurov2009}\\
+Willman 1             & SDSS J1049+5103          & G & dSph & 10h49m21.0s & +51d03m00s &\cite{willman2005b} & Cluster?\\
+Coma Berenices        &                          & G & dSph & 12h26m59.0s & +23d54m15s &\cite{belokurov2007}\\
+Bootes III            &                          & G & dSph?& 13h57m12.0s & +26d48m00s &\cite{grillmair2009} & Very diffuse. Tidal remnant?\\
+LMC                   & Nubecula Major           & G & Irr & 05h23m34.5s & -69d45m22s & --- \\
+SMC                   & Nubecula Minor           & G & dIrr & 00h52m44.8s & -72d49m43s & ---\\
+                      & NGC 292                  &   & &             &            &\\
+Bootes (I)            &                          & G & dSph & 14h00m06.0s & +14d30m00s &\cite{belokurov2006b}\\
+Draco                 & UGC 10822                & G & dSph & 17h20m12.4s & +57d54m55s &\cite{wilson1955}\\ %but not ``discovered''
+                      & DDO 208                  &   & &             &            &\\
+Ursa Minor            & UGC 9749                 & G & dSph & 15h09m08.5s & +67d13m21s &\cite{wilson1955}\\ %but not ``discovered''
+                      & DDO 199                  &   & &             &            &\\
+Sculptor              &                          & G & dSph & 01h00m09.4s & -33d42m33s &\cite{shapley1938a} & The prototypical dSph\\
+Sextans (I)           &                          & G & dSph & 10h13m03.0s & -01d36m53s &\cite{irwin1990}&\\
+Ursa Major (I)        &                          & G & dSph & 10h34m52.8s & +51d55m12s &\cite{willman2005a}\\
+Carina                &                          & G & dSph & 06h41m36.7s & -50d57m58s &\cite{cannon1977}\\
+Hercules              &                          & G & dSph & 16h31m02.0s & +12d47m30s &\cite{belokurov2007} & Tidally disrupting? Remnant? Cluster?\\
+Fornax                &                          & G & dSph & 02h39m59.3s & -34d26m57s &\cite{shapley1938b}\\
+Leo IV                &                          & G & dSph & 11h32m57.0s & -00d32m00s &\cite{belokurov2007} & Binary w/ Leo V?\\
+Canes Venatici II     & SDSS J1257+3419          & G & dSph & 12h57m10.0s & +34d19m15s &\cite{sakamoto2006}\\
+                      &                          &   & &             &            &\cite{belokurov2007}\\
+Leo V                 &                          & G & dSph & 11h31m09.6s & +02d13m12s &\cite{belokurov2008} & Cluster? Binary w/ Leo IV?\\
+Pisces II             &                          & G & dSph & 22h58m31.0s & +05d57m09s &\cite{belokurov2010} & Awaiting spectr. confirmation\\
+Canes Venatici (I)    &                          & G & dSph & 13h28m03.5s & +33d33m21s &\cite{zucker2006b}\\
+Leo II                & Leo B                    & G & dSph & 11h13m28.8s & +22d09m06s &\cite{harrington1950}\\
+              	      & UGC 6253                 &   & &             &            &\\  
+              	      & DDO 93                   &   & &             &            &\\  
+Leo I                 & UGC 5470                 &G/L& dSph & 10h08m28.1s & +12d18m23s &\cite{harrington1950}\\
+                      & DDO 74                   &   & &             &            &\\
+                      & Regulus Dwarf            &   & &             &            &\\
+\\
+\multicolumn{5}{l}{{\it The M31 sub-group (in order of distance from M31)}}\\
+Andromeda             & M31                      & A & Sb   & 00h42m44.3s & +41d16m09s & --- &\\
+                      & NGC 224                  &   & &             &            &     &\\
+                      & UGC 454                  &   & &             &            &     &\\
+M32                   & NGC 221                  & A & cE   & 00h42m41.8s & +40d51m55s & \cite{legentil1755} &\\
+         	      & UGC 452                  &   & &             &            &     &\\       
+Andromeda IX	      &                          & A & dSph & 00h52m53.0s & +43d11m45s &\cite{zucker2004a}\\
+NGC 205               & M110                     & A &dE/dSph& 00h40m22.1s & +41d41m07s & \cite{messier1798} &\\
+                      & UGC 426                  &   & &             &            &     &\\
+Andromeda XVII        &                          & A & dSph & 00h37m07.0s & +44d19m20s &\cite{irwin2008}\\
+Andromeda I           &                          & A & dSph & 00h45m39.8s & +38d02m28s &\cite{vandenbergh1972a}\\
+Andromeda XXVII       &                          & A & dSph & 00h37m27.1s & +45d23m13s &\cite{richardson2011} & Tidally disrupting? Remnant?\\
+Andromeda III         &                          & A & dSph & 00h35m33.8s & +36d29m52s &\cite{vandenbergh1972a}\\
+Andromeda XXV         &                          & A & dSph & 00h30m08.9s & +46d51m07s &\cite{richardson2011}\\
+Andromeda XXVI        &                          & A & dSph & 00h23m45.6s & +47d54m58s &\cite{richardson2011}\\
+Andromeda XI          &                          & A & dSph & 00h46m20.0s & +33d48m05s &\cite{martin2006}\\
+Andromeda V           &                          & A & dSph & 01h10m17.1s & +47d37m41s &\cite{armandroff1998}\\
+Andromeda X           &                          & A & dSph & 01h06m33.7s & +44d48m16s &\cite{zucker2007}\\
+Andromeda XXIII       &                          & A & dSph & 01h29m21.8s & +38d43m08s &\cite{richardson2011}\\
+Andromeda XX          &                          & A & dSph & 00h07m30.7s & +35d07m56s &\cite{mcconnachie2008b}\\
+Andromeda XII         &                          &A/L& dSph & 00h47m27.0s & +34d22m29s &\cite{martin2006}&Unbound to M31?\\
+NGC 147               & UGC 326	                 & A &dE/dSph& 00h33m12.1s & +48d30m32s & \cite{herschel1833} &Binary w/ NGC185? Tidal stream\\
+                      & DDO 3                    &   & &             &            &\\
+Andromeda XXI         &                          & A & dSph & 23h54m47.7s & +42d28m15s &\cite{martin2009}\\
+Andromeda XIV         &                          &A/L& dSph & 00h51m35.0s & +29d41m49s &\cite{majewski2007}&Unbound to M31? In Pisces\\
+Andromeda XV          &                          & A & dSph & 01h14m18.7s & +38d07m03s &\cite{ibata2007}\\
+Andromeda XIII        &                          & A & dSph & 00h51m51.0s & +33d00m16s &\cite{martin2006}& In Pisces\\
+Andromeda II          &                          & A & dSph & 01h16m29.8s & +33d25m09s &\cite{vandenbergh1972a} & In Pisces\\
+NGC 185               & UGC 396                  & A &dE/dSph& 00h38m58.0s & +48d20m15s & \cite{herschel1789}  &Binary w/ NGC147?\\
+Andromeda XXIX        &                          & A & dSph & 23h58m55.6s & +30d45m20s &\cite{bell2011} & In Pegasus\\
+Andromeda XIX         &                          & A & dSph & 00h19m32.1s & +35d02m37s &\cite{mcconnachie2008b}\\
+Triangulum            & M33                      & A & Sc   & 01h33m50.9s & +30d39m37s & Discovered by Hodierna, 1854\\
+                      & NGC 598                  &   & &             &            & &\\
+                      & UGC 1117                 &   & &             &            & &\\
+Andromeda XXIV        &                          & A & dSph & 01h18m30.0s & +46d21m58s &\cite{richardson2011}\\
+Andromeda VII         & Casseopia dSph           & A & dSph & 23h26m31.7s & +50d40m33s &\cite{karachentsev1999}\\
+Andromeda XXII        &                          & A & dSph & 01h27m40.0s & +28d05m25s &\cite{martin2009} & M33 satellite? In Pisces\\
+IC 10                 & UGC 192                  & A & dIrr & 00h20m17.3s & +59d18m14s &\cite{swift1888}\\
+LGS 3 (Local Group    & Pisces (I)               & A & dIrr/dSph& 01h03m55.0s & +21d53m06s &\cite{karachentseva1976}\\
+Suspect 3)            &                          &   & &             &            &\cite{kowal1978}\\		     
+Andromeda VI          & Pegasus dSph             & A & dSph & 23h51m46.3s & +24d34m57s &\cite{karachentsev1999}\\
+                      &                          &   & &             &            &\cite{armandroff1999}\\
+Andromeda XVI         &                          &A/L& dSph & 00h59m29.8s & +32d22m36s &\cite{ibata2007} & In Pisces\\
+\\
+Andromeda XXVIII      &                          &A/L&dSph? & 22h32m41.2s & +31d12m58s & \cite{slater2011} & In Pegasus\\
+IC 1613               & DDO 8                    & L & dIrr & 01h04m47.8s & +02d07m04s & \cite{wolf1906}\\
+                      & UGC 668                  &   &&             &            &\\ 
+Phoenix               &                          &L/G& dIrr/dSph & 01h51m06.3s & -44d26m41s &\cite{schuster1976}\tablenotemark{a}\\
+NGC 6822              & IC 4895                  &L/G& dIrr & 19h44m56.6s & -14d47m21s & \cite{barnard1884} & Polar ring morph.\\
+                      & DDO 209                  &   &&             &            &\\
+                      & Barnard's Galaxy         &   &&             &            &\\
+Cetus                 &                          & L & dSph & 00h26m11.0s & -11d02m40s &\cite{whiting1999} & Isolated dSph\\
+Pegasus dIrr          & UGC 12613                &L/A& dIrr/dSph & 23h28m36.3s & +14d44m35s &A.G. Wilson. Reported in \cite{holmberg1958}\\
+                      & DDO 216                  &   &&             &            &\\
+Leo T		      &                          &L/G& dIrr/dSph & 09h34m53.4s & +17d03m05s &\cite{irwin2007}\\    
+WLM (Wolf-Lundmark-   & UGCA 444                 & L & dIrr & 00h01m58.2s & -15d27m39s &\cite{wolf1910} & Defines $R_{LG}$\\
+-Melotte)             & DDO 221                  &   &&             &            &\cite{melotte1926}, including K.E. Lundmark\\
+Leo A                 & Leo III                  & L & dIrr & 09h59m26.5s & +30d44m47s &\cite{zwicky1942} & Defines $R_{LG}$\\
+                      & UGC 5364                 &   &&             &            &\\
+                      & DDO 69                   &   &&             &            &\\
+Andromeda XVIII       &                          & L & dSph & 00h02m14.5s & +45d05m20s &\cite{mcconnachie2008b}& Isolated dSph\\
+Aquarius              & DDO 210	                 & L & dIrr/dSph & 20h46m51.8s & -12d50m53s &\cite{vandenbergh1959} & Defines $R_{LG}$\\
+Tucana                &                          & L & dSph & 22h41m49.6s & -64d25m10s &\cite{lavery1990}\tablenotemark{b} & Isolated dSph; defines $R_{LG}$\\
+Sagittarius dIrr      & UKS 1927-177             & L & dIrr & 19h29m59.0s & -17d40m41s &\cite{cesarsky1977} &Defines $R_{LG}$\\
+                      &                          &   &&             &            &\cite{longmore1978}\\
+UGC 4879              & VV 124                   & L & dIrr/dSph & 09h16m02.2s & +52d50m24s &\cite{kopylov2008}\tablenotemark{c} & Defines $R_{LG}$\\
+NGC 3109              & DDO 236                  & N & dIrr & 10h03m06.9s & -26d09m35s &\cite{herschel1847}& Loose NGC 3109 subgroup. Interacting with Antlia?\\
+                      & UGCA 194                 &   &&             &            &\\
+Sextans B             & UGC 5373                 & N & dIrr & 10h00m00.1s & +05d19m56s &A.G. WIlson? See \cite{holmberg1958}\tablenotemark{d} & Loose NGC 3109 subgroup\\
+                      & DDO 70                   &   &&             &            &\\
+Antlia                &                          & N & dIrr & 10h04m04.1s & -27d19m52s &\cite{whiting1997}\tablenotemark{e} & Loose NGC 3109 subgroup. Interacting with NGC3109?\\
+Sextans A             & UGCA 205                 & N & dIrr & 10h11m00.8s & -04d41m34s &\cite{zwicky1942}& Loose NGC 3109 sub-group\\
+                      & DDO 75                   &   &&             &            &\\       
+HIZSS 3(A)            &                          & N &(d)Irr?& 07h00m29.3s & -04d12m30s &\cite{henning2000}\tablenotemark{f} & Zone of obscuration. Binary with B?\\
+HIZSS 3B              &                          & N &(d)Irr?& 07h00m29.3s & -04d12m30s &\cite{henning2000}\tablenotemark{g} & Zone of obscuration. Binary with A? \\    
+KKR 25                &                          & N & dIrr/dSph& 16h13m48.0s & +54d22m16s &\cite{karachentsev2001a}\\
+ESO 410- G 005        & UKS 0013-324             & N & dIrr/dSph & 00h15m31.6s & -32d10m48s &\cite{lauberts1982} & NGC 55 sub-group, forming ``bridge'' to Sculptor?\\
+                      &                          &   &&             &            &\cite{longmore1982}\\
+NGC 55                &                          & N & Irr & 00h14m53.6s & -39d11m48s &\cite{dunlop1828} & NGC 55 sub-group, forming ``bridge'' to Sculptor?\\
+ESO 294- G 010        &                          & N &dIrr/dSph& 00h26m33.4s & -41d51m19s &\cite{lauberts1982}& NGC 55 sub-group, forming ``bridge'' to Sculptor?\\
+NGC 300               &                          & N & Sc & 00h54m53.5s & -37d41m04s &\cite{dunlop1828}& NGC 55 sub-group, forming ``bridge'' to Sculptor?\\
+IC 5152               &                          & N & dIrr & 22h02m41.5s & -51d17m47s &D. Stewart. Reported in \cite{pickering1899}\\
+KKH 98                &                          & N & dIrr & 23h45m34.0s & +38d43m04s &\cite{karachentsev2001b}\\
+UKS 2323-326          & UGCA 438                 & N & dIrr & 23h26m27.5s & -32d23m20s &\cite{longmore1978} &  NGC 55 sub-group, forming ``bridge'' to Sculptor?\\
+KKR 3                 & KK 230                   & N & dIrr & 14h07m10.5s & +35d03m37s &\cite{karachentseva1998}\tablenotemark{h} & Member of the Canes Venatici I cloud\\
+GR 8                  & UGC 8091                 & N & dIrr & 12h58m40.4s & +14d13m03s &\cite{reaves1956}\tablenotemark{i} &Gibson Reaves gave this galaxy his initials\\
+                      & VV 558                   &   & &             &            &\\               
+                      & DDO 155                  &   & &             &            &\\      
+UGC 9128              & DDO 187                  & N & dIrr & 14h15m56.5s & +23d03m19s &\cite{vandenbergh1959}\\
+UGC 8508              &                          & N & dIrr & 13h30m44.4s & +54d54m36s &\cite{vorontsovvelyaminov1962}\\
+IC 3104               & ESO 020- G 004           & N & dIrr & 12h18m46.0s & -79d43m34s &D. Stewart. Reported in \cite{pickering1908}\\
+                      & UKS 1215-794             &   & &             &            &\\
+DDO 125               & UGC 7577                 & N & dIrr & 12h27m40.9s & +43d29m44s &\cite{vandenbergh1959}\\
+UGCA 86               &                          & N & dIrr & 03h59m48.3s & +67d08m19s &\cite{nilson1974} & Companion of IC 342\\
+DDO 99                & UGC 6817                 & N & dIrr & 11h50m53.0s & +38d52m49s &\cite{vandenbergh1959}\\
+IC 4662               & ESO 102- G 014           & N & dIrr & 17h47m08.8s & -64d38m30s &R. Innes. Reported in \cite{lunt1902}\\
+DDO 190               & UGC 9240                 & N & dIrr & 14h24m43.4s & +44d31m33s &\cite{vandenbergh1959}\\
+KKH 86                &                          & N & dIrr & 13h54m33.5s & +04d14m35s &\cite{karachentsev2001b}\\
+NGC 4163              & UGC 7199                 & N & dIrr & 12h12m09.1s & +36d10m09s &\cite{herschel1789}\\
+                      & NGC 4167\tablenotemark{j} &   &      &             &            &\\  
+DDO 113               & UGCA 276                 & N & dIrr & 12h14m57.9s & +36d13m08s &\cite{vandenbergh1959}\\
+                      & KDG 90                   &   &      &             &            &\\                
+\end{tabular}
+\end{table}
