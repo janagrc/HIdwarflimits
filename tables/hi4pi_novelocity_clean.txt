@@ -12,6 +12,3 @@ Indus1      		0.02
 Pictoris1   		0.02
 ColumbaI    		0.022
 IndusI?			0.019
-AndromedaXXXII		0.014
-AndromedaXXXI     	0.02
-AndromedaXXXIII    	0.015

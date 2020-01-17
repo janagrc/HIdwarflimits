@@ -61,5 +61,9 @@ AndromedaII       6.2    0	0.0216491		"added later"
 
 SagittariusdSph   nan	nan	0.025
 
+AndromedaXXXII	  6.5	nan	0.0177			"added Jan 2020"
+AndromedaXXXI	 4.2 	nan	0.0235			"added Jan 2020"
+AndromedaXXXIII	 nan 	nan	0.0186			"added Jan 2020"
+
 #2nd group added because considered too small for resolved(sculptor, fornax ambiguous), last group added from GALFA-HI resolved category 
 
