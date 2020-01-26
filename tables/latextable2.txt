@@ -11,7 +11,7 @@
            Hydrus I &  \$6.5\textbackslash times 10\textasciicircum \{3\}\$ &        7.42 &                             2.7 &                   25 &                   793 &                                  -244 &     - \\
            Cetus II &                \$84\$ &        1.90 &                               - &                   32 &                   763 &                                  -250 &     - \\
        Reticulum II &  \$1.0\textbackslash times 10\textasciicircum \{3\}\$ &        3.64 &                             3.4 &                   31 &                   785 &                                  -239 &     - \\
-      Triangulum II &               \$449\$ &        3.90 &                               - &                   36 &                   750 &                                  -262 &     - \\
+      Triangulum II &               \$449\$ &        3.90 &                          \$<3.4\$ &                   36 &                   750 &                                  -262 &     - \\
       Ursa Major II &  \$4.1\textbackslash times 10\textasciicircum \{3\}\$ &       16.00 &                             6.7 &                   37 &                   766 &                                  -241 &     - \\
            Segue II &               \$855\$ &        3.40 &                             3.4 &                   40 &                   748 &                                  -257 &     - \\
           Carina II &  \$5.4\textbackslash times 10\textasciicircum \{3\}\$ &        8.69 &                             3.4 &                   37 &                   802 &                                  -234 &     - \\
@@ -22,7 +22,7 @@
          Boötes III &  \$1.7\textbackslash times 10\textasciicircum \{4\}\$ &           - &                            10.7 &                   45 &                   796 &                                  -224 &     - \\
           Tucana IV &  \$2.2\textbackslash times 10\textasciicircum \{3\}\$ &        9.10 &                             4.3 &                   45 &                   789 &                                  -225 &     - \\
                 LMC &  \$1.5\textbackslash times 10\textasciicircum \{9\}\$ &           - &                            20.2 &                   50 &                   806 &                                  -221 &     - \\
-            Grus II &  \$3.2\textbackslash times 10\textasciicircum \{3\}\$ &        6.00 &                               - &                   48 &                   784 &                                  -223 &     - \\
+            Grus II &  \$3.2\textbackslash times 10\textasciicircum \{3\}\$ &        6.00 &                          \$<1.9\$ &                   48 &                   784 &                                  -223 &     - \\
            Tucana V &               \$377\$ &        1.00 &                               - &                   52 &                   794 &                                  -218 &     - \\
           Tucana II &  \$2.8\textbackslash times 10\textasciicircum \{3\}\$ &        9.83 &                             8.5 &                   53 &                   792 &                                  -216 &     - \\
                 SMC &  \$4.6\textbackslash times 10\textasciicircum \{8\}\$ &           - &                            27.6 &                   61 &                   805 &                                  -209 &     - \\
@@ -35,10 +35,10 @@
           Phoenix 2 &  \$1.1\textbackslash times 10\textasciicircum \{3\}\$ &        1.09 &                               - &                   80 &                   791 &                                  -191 &     - \\
           Sculptor  &  \$2.3\textbackslash times 10\textasciicircum \{6\}\$ &       11.30 &                             9.2 &                   86 &                   759 &                                  -198 &     - \\
            Sextans  &  \$4.4\textbackslash times 10\textasciicircum \{5\}\$ &       27.80 &                             7.9 &                   89 &                   833 &                                  -184 &     - \\
-          Eridanus3 &               \$540\$ &        0.54 &                               - &                   87 &                   792 &                                  -184 &     - \\
+       Eridanus III &               \$540\$ &        0.54 &                               - &                   87 &                   792 &                                  -184 &     - \\
             Virgo I &               \$179\$ &        1.50 &                               - &                   87 &                   844 &                                  -192 &     - \\
       Reticulum III &  \$1.8\textbackslash times 10\textasciicircum \{3\}\$ &        2.40 &                               - &                   91 &                   811 &                                  -178 &     - \\
-     Ursa Major (I) &  \$1.4\textbackslash times 10\textasciicircum \{4\}\$ &       11.30 &                             7.6 &                  101 &                   772 &                                  -177 &     - \\
+        Ursa Major  &  \$1.4\textbackslash times 10\textasciicircum \{4\}\$ &       11.30 &                             7.6 &                  NaN &                   NaN &                                   NaN &     - \\
             Indus I &  \$2.1\textbackslash times 10\textasciicircum \{3\}\$ &        1.26 &                               - &                   94 &                   807 &                                  -176 &     - \\
             Carina  &  \$3.8\textbackslash times 10\textasciicircum \{5\}\$ &        8.20 &                             6.6 &                  107 &                   836 &                                  -165 &     - \\
         Aquarius II &  \$4.7\textbackslash times 10\textasciicircum \{3\}\$ &        5.10 &                             5.4 &                  105 &                   727 &                                  -200 &     - \\
@@ -46,7 +46,7 @@
           Crater II &  \$1.6\textbackslash times 10\textasciicircum \{5\}\$ &       31.20 &                             2.7 &                  116 &                   885 &                                  -184 &     - \\
              Grus I &  \$2.0\textbackslash times 10\textasciicircum \{3\}\$ &        1.77 &                             2.9 &                  116 &                   796 &                                  -156 &     - \\
           Hercules  &  \$3.7\textbackslash times 10\textasciicircum \{4\}\$ &        8.60 &                             3.7 &                  126 &                   822 &                                  -144 &     - \\
-           Hydra II &  \$7.4\textbackslash times 10\textasciicircum \{3\}\$ &        1.70 &                               - &                  131 &                   910 &                                  -198 &     - \\
+           Hydra II &  \$7.4\textbackslash times 10\textasciicircum \{3\}\$ &        1.70 &                          \$<3.6\$ &                  131 &                   910 &                                  -198 &     - \\
             Fornax  &  \$2.0\textbackslash times 10\textasciicircum \{7\}\$ &       16.60 &                            11.7 &                  149 &                   766 &                                  -135 &     - \\
              Leo IV &  \$1.9\textbackslash times 10\textasciicircum \{4\}\$ &        4.60 &                             3.3 &                  154 &                   895 &                                  -130 &     - \\
   Canes Venatici II &  \$7.9\textbackslash times 10\textasciicircum \{3\}\$ &        1.60 &                             4.6 &                  160 &                   833 &                                  -109 &     - \\
